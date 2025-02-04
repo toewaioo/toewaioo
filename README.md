@@ -1,4 +1,4 @@
-# Hi there, I'm [Toewaioo] 👋  
+# Hi there, I'm Toewaioo 👋  
 
 Welcome to my GitHub profile! I'm a passionate **Web & Android Developer** with a love for building amazing projects and learning new technologies.
 
@@ -51,7 +51,7 @@ Here are a few projects I'm proud of:
 ## 🤝 Connect With Me  
 - **Email:** [kotoe.htd258@gmail.com](mailto:kotoe.htd258@gmail.com)  
 - **Telegram:** [twowt2](https://t.me/twowt2)  
-- **Portfolio Website:** [My Portfolio](https://portfolio-liar2003s-project.vercel.app)  
+- **Portfolio Website:** [My Portfolio](https://portfolio-liar2003s-projects.vercel.app)  
 
 ---
 
