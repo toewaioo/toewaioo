@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm a passionate **Web & Android Developer** with 
 
 ## 🔥 Projects  
 Here are a few projects I'm proud of:
-1. [**Project Name 1**](#)  
-   *A short description of the project, its purpose, and technologies used.*  
-2. [**Project Name 2**](#)  
-   *Another notable project and its impact.*  
+1. [**Tarot Gemini**](#)  
+   *Ai powered 3 cards tarot reader using geimini.*  
+2. [**Whisper Link**](https://message-app-kappa-two.vercel.app)  
+   *Ai powered Anonymous messaging app.Ask me anything.*  
 3. [**Portfolio Website**](https://portfolio-liar2003s-project.vercel.app)  
    *A showcase of my projects and achievements.*  
 
